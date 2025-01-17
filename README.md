@@ -1,3 +1,3 @@
 # my-first-repo
-skills that to be learn
-author-sumiya
+Skills that to be learn.
+Author-Sumiya
